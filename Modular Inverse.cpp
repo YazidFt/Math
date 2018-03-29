@@ -2,7 +2,7 @@
     Let x be the  modular inverse of an integer a modulo m:
     So  a*x = 1 mod (m)
 
-    x exist if GCD(a,m) egal 1, it can be dertermined using extended euclidean algorithm
+    x exists if GCD(a,m) egal 1, it can be dertermined using extended euclidean algorithm
 */
 
 
